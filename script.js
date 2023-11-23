@@ -50,7 +50,6 @@ function resetStopwatch() {
     minutes=0;
     hours=0;
 
-
     count.textContent= "00:00:00"
     startBtn.textContent= "Start"
     
