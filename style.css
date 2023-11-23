@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mywatch{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    align-items: center;
+}
+#count{
+    font-size: 3em;
+    margin: 20px 0;
+}
+button{
+    padding: 10px 20px;
+    font-size: 1em;
+    margin: 5px;
+    cursor: pointer;
+}
