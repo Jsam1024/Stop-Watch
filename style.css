@@ -4,10 +4,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: black;
 }
 
 .mywatch{
-    border: 2px solid black;
+    border: 2px solid#fff;
+    background: #fff;
     padding: 20px;
     border-radius: 15px;
     align-items: center;
